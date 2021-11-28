@@ -21,6 +21,7 @@ int main() {
     else if (op[i] == "*") {
       ans = ans * B[i];
     }
+    }
     else if (op[i] == "/") {
       if (B[i] == 0) {
         cout << "error" << endl;
