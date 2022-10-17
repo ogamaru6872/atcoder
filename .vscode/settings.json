@@ -1,5 +1,12 @@
 {
   "files.associations": {
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "b_interactive_sorting": "cpp",
+    "vector": "cpp",
+    "xlocale": "cpp",
+    "initializer_list": "cpp",
+    "xutility": "cpp",
+    "list": "cpp",
+    "type_traits": "cpp"
   }
 }
